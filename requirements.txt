@@ -22,7 +22,7 @@ git+https://github.com/DefectDojo/django-tastypie-swagger.git@c7c5629480dc20cadd
 django-tastypie==0.14.2
 django-watson==1.5.5
 django-prometheus==2.1.0
-Django==2.2.17
+Django==4.2.22
 djangorestframework==3.12.2
 gunicorn==20.0.4
 html2text==2020.1.16
@@ -42,7 +42,7 @@ python-dateutil==2.8.1
 python-nmap==0.6.1
 pytz==2020.4
 redis==3.5.3
-requests>=2.22.0
+requests>=2.32.4
 sqlalchemy  # Required by Celery broker transport
 supervisor==4.2.1
 urllib3==1.26.2
